@@ -13,6 +13,7 @@ Welcome to the "Microsoft_Azure_Notes" repository! This repository is a collecti
 ## Introduction to Microsoft Azure
 
 Microsoft Azure is a cloud computing platform and infrastructure that offers a wide range of services for building, deploying, and managing applications through Microsoft-managed data centers.
+- [Introduction to Cloud and Azure?](azure-and-cloud-introuduction.md)
 
 ## Benefits of Azure
 
